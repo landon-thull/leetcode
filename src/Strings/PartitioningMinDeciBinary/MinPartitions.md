@@ -59,5 +59,5 @@ we would run the for loop 5 times. If it was 10 characters long, we would run
 the for loop 10 times.
 
 ### Space Complexity
-This solution has O(1) space complexity. We only initialize one variable, an integer, which
+This solution has <span style="color:green">O(1)</span> space complexity. We only initialize one variable, an integer, which
 uses 4 bytes of space regardless of the value.

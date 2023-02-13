@@ -1,5 +1,10 @@
 # Leetcode Problems
-These are my solutions to various Leetcode problems. I create these explanations for both the public and myself. I find it very useful to make myself walk through each problem and write a detailed guide.
+These are my solutions to various Leetcode problems. All the solutions are written in Java, as it is my language of choice. 
+I create these explanations for both the public and myself. I find it very useful to make myself walk through each problem 
+and write a detailed guide.
+
+Most of the explanation files contain links to relevant details on methods and datatypes
+used in the function.
 
 ## Directory:
 ### Strings
