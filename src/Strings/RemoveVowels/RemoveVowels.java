@@ -2,7 +2,7 @@ package Strings.RemoveVowels;
 
 public class RemoveVowels {
 
-    // View explanation
+    // CODE FOR TESTCASES - NOT PART OF SOLUTION
     public static void main(String[] args) {
         String[] testcases = {"leetcodeisacommunityforcoders", "aeiou"};
 

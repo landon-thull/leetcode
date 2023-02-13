@@ -1,6 +1,8 @@
 package Strings.DefangIPAddress;
 
 public class DefangIPAddr {
+
+    // CODE FOR TESTCASES - NOT PART OF SOLUTION
     public static void main(String[] args) {
         String[] testcases = {"1.1.1.1", "255.100.50.0"};
 
