@@ -13,10 +13,12 @@ Given a string s, remove the vowels 'a', 'e', 'i', 'o', and 'u' from it, and ret
 ```java
 StringBuffer sb = new StringBuffer(s.length());
 ```
+<p>
 First, we initialize a StringBuffer the same length as the input string.
 We do this because we know that the output cannot be any longer than the input.
 StringBuffer is more efficient in terms of time & space complexity because it is mutable
 unlike string, which would create a new instance every time we concatenate.
+</p>
 ---
 ```java
 for (int i = 0; i < s.length(); i++) {
@@ -26,21 +28,25 @@ for (int i = 0; i < s.length(); i++) {
 }
 return sb.toString();
 ```
+<p>
 We now use a for loop to access each character within the input string.
 We then use a helper function called isVowel to decide if the character
 is a vowel or not. If the character is NOT a vowel, we add it to the StringBuffer.
 Else, we continue the loop. After finishing the loop, we convert the stringBuffer
-to a string and return it.
+to a String and return it
+</p>
 ---
 ```java
 public static boolean isVowel(char c) {
     return c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u';
 }
 ```
+<p>
 This is the helper function isVowel. It takes a character as input, and returns
 a boolean. Here we use implicit return instead of an if then statement.
 If any of the values in the return statement evaluate to true, the function will
 return true.
+</p>
 
 ## Time & Space Complexity
 ### Time Complexity
