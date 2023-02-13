@@ -17,6 +17,7 @@ First, we initialize a StringBuffer the same length as the input string.
 We do this because we know that the output cannot be any longer than the input.
 StringBuffer is more efficient in terms of time & space complexity because it is mutable
 unlike string, which would create a new instance every time we concatenate.
+
 ---
 ```java
 for (int i = 0; i < s.length(); i++) {
