@@ -1,5 +1,5 @@
 # Leetcode Problems
-These are my solutions to various Leetcode problems.
+These are my solutions to various Leetcode problems. I create these explanations for both the public and myself. I find it very useful to make myself walk through each problem and write a detailed guide.
 
 ## Directory:
 ### Strings
