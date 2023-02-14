@@ -1,7 +1,6 @@
 # Leetcode Solutions :bulb:
 These are my solutions to various Leetcode problems. All the solutions are written in Java, as it is my language of choice. 
-I create these explanations for both the public and myself. I find it very useful to make myself walk through each problem 
-and write a detailed guide.
+I create these explanations for both the public and myself. I feel like I learn better and gain better comprehension of the concepts when I explain my solutions in great detail.
 
 Most of the explanation files contain links to relevant details on methods and datatypes used in the function.
 
