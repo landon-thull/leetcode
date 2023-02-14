@@ -1,4 +1,4 @@
-# Leetcode Problems
+# Leetcode Solutions :bulb:
 These are my solutions to various Leetcode problems. All the solutions are written in Java, as it is my language of choice. 
 I create these explanations for both the public and myself. I find it very useful to make myself walk through each problem 
 and write a detailed guide.
