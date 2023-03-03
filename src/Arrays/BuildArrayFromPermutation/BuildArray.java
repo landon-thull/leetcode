@@ -1,8 +1,10 @@
-package Strings.BuildArrayFromPermutation;
+package Arrays.BuildArrayFromPermutation;
 
 import java.util.Arrays;
 
 public class BuildArray {
+
+    // CODE FOR TESTCASES - NOT PART OF SOLUTION
     public static void main(String[] args) {
         int[][] testcases = {{0,2,1,5,3,4}};
 
